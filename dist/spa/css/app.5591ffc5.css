@@ -8,3 +8,13 @@
   /* width: 100vw; */
 }
 
+.u-titulo {
+  font-size: xxx-large;
+}
+
+.u-link {
+  font-size: large;
+  font-weight: bold;
+  color: #1976D2;
+}
+
